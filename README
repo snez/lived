@@ -1,0 +1,10 @@
+lived HTTP/1.1 server
+---------------------
+
+Type 'make' to build
+Type './lived' for help
+
+Information
+-----------
+
+This software is licenced under the GNU GENERAL PUBLIC LICENSE (http://www.gnu.org/licenses/gpl.txt). The web server is designed to run on live linux distributions. It supports only the GET and HEAD HTTP requests. For feedback, contact Christos Constantinou, sliqer@gmail.com. 
